@@ -15,4 +15,4 @@ The project aims at adding a new eye interaction method for [GazePlay](https://g
 ## Useful Links
 
  - [Report](./report.pdf)
- - Presentation
+ - [Presentation](./presentation.mp4)
